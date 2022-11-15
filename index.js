@@ -21,8 +21,8 @@ res.json({
 // Defining get request at '/array' route
 app.get('/array', function(req, res) {
 res.json([{
-	number: 1,
-	name: 'John',
+	number: 10,
+	name: 'messi',
 	gender: 'male'
 	},
 	{
